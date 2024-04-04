@@ -1,0 +1,14 @@
+{
+  "name": "utility-cat",
+  "version": "1.0.0",
+  "description": "standard unix utility",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Powell",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
